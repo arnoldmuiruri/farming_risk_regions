@@ -171,3 +171,10 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 data/
+.venv
+__pycache__/
+*.pyc
+.env
+.pdm.toml
+.pdm.lock
+farming_risk_regions/
